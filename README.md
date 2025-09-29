@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Hamza Basharat the Vision & Language Fusion Architect and Here to blending code and cognition to build smart systems.
+## I'm Hamza Basharat the Vision & Language Fusion Architect and Here to blending code and cognition to build smart systems
 
 <!--
 **hamzabasharat26/hamzabasharat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
