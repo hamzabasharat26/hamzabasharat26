@@ -13,7 +13,7 @@
   <a href="https://github.com/hamzabasharat26?tab=followers">
     <img src="https://img.shields.io/github/followers/hamzabasharat26?label=Followers&style=for-the-badge&color=2E9CF8&labelColor=0d1117" />
   </a>
-  <img src="https://img.shields.io/badge/Islamabad-Pakistan-2E9CF8?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-2E9CF8?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
