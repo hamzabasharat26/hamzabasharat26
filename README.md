@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  <a href="https://hamzabasharat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2E9CF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.hamzabasharat.tech/"><img src="https://img.shields.io/badge/Portfolio-2E9CF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hamzabasharat26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hamzabasharat2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/923006547302"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -208,7 +208,7 @@ Hiring for an AI Engineer role, need a freelance computer vision build, or want 
 <a href="mailto:hamzabasharat2004@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/923006547302"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://linkedin.com/in/hamzabasharat26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://hamzabasharat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2E9CF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.hamzabasharat.tech/"><img src="https://img.shields.io/badge/Portfolio-2E9CF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
